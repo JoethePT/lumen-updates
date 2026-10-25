@@ -1,19 +1,19 @@
 {
-  "published": "2026-10-25T10:55:35.847Z",
+  "published": "2026-10-25T19:11:07.678Z",
   "web": {
-    "version": 1,
-    "zip": "web-1.zip",
-    "sha256": "c30bbe849e14590aee6946f55de340f3aaf58a80cc08a0692056a6d1ededd3a8",
-    "size": 344408,
-    "minApp": 19,
-    "notes": "First screens release."
+    "version": 2,
+    "zip": "web-2.zip",
+    "sha256": "97bc54eb5140d014493a4d9a067e8f795bee90f204b56387cb99096cfa7383c1",
+    "size": 344794,
+    "minApp": 20,
+    "notes": "Video output choice in Settings and the player's Picture menu."
   },
   "app": {
-    "versionCode": 19,
-    "versionName": "2.2.0",
-    "apk": "Lumen-2.2.0.apk",
-    "sha256": "69acff7ecbdc81c4fac9b17beddc2a980a8e194c558c457ef34ff96feee3518b",
-    "size": 6789830,
-    "notes": "Built-in updates: Lumen now updates itself. Casting for films, series and live channels, with subtitles."
+    "versionCode": 20,
+    "versionName": "2.3.0",
+    "apk": "Lumen-2.3.0.apk",
+    "sha256": "fb3d78fe6d400852b76ebc6ac7e9a9461e7ae1ffc9e1d021e32b90046a5999ff",
+    "size": 6790990,
+    "notes": "Fixes series that played with sound but a green picture. New Video output setting (also in the player's Picture menu) if a picture still looks wrong."
   }
 }
