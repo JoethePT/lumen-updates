@@ -1,19 +1,19 @@
 {
-  "published": "2026-10-25T19:11:07.678Z",
+  "published": "2026-11-02T15:01:40.763Z",
   "web": {
-    "version": 2,
-    "zip": "web-2.zip",
-    "sha256": "97bc54eb5140d014493a4d9a067e8f795bee90f204b56387cb99096cfa7383c1",
-    "size": 344794,
-    "minApp": 20,
-    "notes": "Video output choice in Settings and the player's Picture menu."
+    "version": 3,
+    "zip": "web-3.zip",
+    "sha256": "b68ffe1705629649d8f9d37d00fe5ce0cf954460183584eb99c5ba47855fc2c6",
+    "size": 345895,
+    "minApp": 21,
+    "notes": "Clearer casting messages."
   },
   "app": {
-    "versionCode": 20,
-    "versionName": "2.3.0",
-    "apk": "Lumen-2.3.0.apk",
-    "sha256": "fb3d78fe6d400852b76ebc6ac7e9a9461e7ae1ffc9e1d021e32b90046a5999ff",
-    "size": 6790990,
-    "notes": "Fixes series that played with sound but a green picture. New Video output setting (also in the player's Picture menu) if a picture still looks wrong."
+    "versionCode": 21,
+    "versionName": "2.4.0",
+    "apk": "Lumen-2.4.0.apk",
+    "sha256": "e8a068f649cb4d78492819a48be8420007e738dc36a6c02710058a668c4a17a7",
+    "size": 6792422,
+    "notes": "Casting fixes: files a Chromecast turns down are offered again in another format, a clear reason when a title can't play on your Chromecast, and automatic retries when your provider is still busy."
   }
 }
