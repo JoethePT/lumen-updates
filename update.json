@@ -1,19 +1,19 @@
 {
-  "published": "2026-11-02T15:14:47.911Z",
+  "published": "2026-11-17T18:35:11.270Z",
   "web": {
-    "version": 4,
-    "zip": "web-4.zip",
-    "sha256": "9ab05eb54e6cfbc78f2b9fb683e61580ff6d5a8d0b2a8ee5118bd6a8b32442e2",
-    "size": 347856,
-    "minApp": 22,
-    "notes": "Casts another copy when a title won't play on your Chromecast."
+    "version": 5,
+    "zip": "web-5.zip",
+    "sha256": "a1b1301e68dac76d5d0925fa5f9770bd23019d7454466a9ca0b5f965e261b181",
+    "size": 349446,
+    "minApp": 23,
+    "notes": "Trailers, subtitles from your phone, clearer audio track menu."
   },
   "app": {
-    "versionCode": 22,
-    "versionName": "2.5.0",
-    "apk": "Lumen-2.5.0.apk",
-    "sha256": "91af0609f3cfea34ca84e4e8a5ddcf4f0c30f038751fe567c5048db767e83d30",
-    "size": 6794354,
-    "notes": "When your Chromecast can't play a title, Lumen now finds another copy of it from your provider that it can play, and remembers what your TV supports."
+    "versionCode": 23,
+    "versionName": "2.6.0",
+    "apk": "Lumen-2.6.0.apk",
+    "sha256": "4e3704237ee917e33d980cc3d0ed07c34db2cf7cb419eb3a76576b2db6bd0dbf",
+    "size": 12749795,
+    "notes": "Plays Dolby and DTS sound on boxes that can't decode it, shows every audio track with its language and format, trailer buttons on films and series, and subtitle files sent from your phone."
   }
 }
