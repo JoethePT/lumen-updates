@@ -1,19 +1,19 @@
 {
-  "published": "2026-11-17T18:35:11.270Z",
+  "published": "2026-11-17T19:40:34.484Z",
   "web": {
-    "version": 5,
-    "zip": "web-5.zip",
-    "sha256": "a1b1301e68dac76d5d0925fa5f9770bd23019d7454466a9ca0b5f965e261b181",
-    "size": 349446,
-    "minApp": 23,
-    "notes": "Trailers, subtitles from your phone, clearer audio track menu."
+    "version": 6,
+    "zip": "web-6.zip",
+    "sha256": "04ed3cc323a018efe0f4f358ee8b3040c5a777b24ee1130e983f8ebb9198b26e",
+    "size": 355953,
+    "minApp": 24,
+    "notes": "Sync devices."
   },
   "app": {
-    "versionCode": 23,
-    "versionName": "2.6.0",
-    "apk": "Lumen-2.6.0.apk",
-    "sha256": "4e3704237ee917e33d980cc3d0ed07c34db2cf7cb419eb3a76576b2db6bd0dbf",
-    "size": 12749795,
-    "notes": "Plays Dolby and DTS sound on boxes that can't decode it, shows every audio track with its language and format, trailer buttons on films and series, and subtitle files sent from your phone."
+    "versionCode": 24,
+    "versionName": "2.7.0",
+    "apk": "Lumen-2.7.0.apk",
+    "sha256": "5e6b540e56fbfeb1de855045e30c40ff5a18af6fbcec4db3b9ebddb700b28f45",
+    "size": 12772702,
+    "notes": "Sync your phone and TV over home Wi-Fi: Continue watching, favourites, My channels, settings and playlists. Link them in Settings → Sync devices."
   }
 }
